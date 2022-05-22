@@ -1,20 +1,7 @@
-![Web Developer]
 
-## Hi there 👋, I'm Md. Mahfuzur Rahman Shanto
-### Web Developer
+## Hey, This is Md. Mahfuzur Rahman Shanto
+### now I'm exploring and learning the magic of programming    
 
-Hello,
-         I'm Md Abdul Alim. I'm a Front-End Developer. I'm an expert at HTML, HTML5, CSS, CSS3, Bootstrap, jQuery, Javascript, etc. God is my Creator. I'm fully confident in myself in this matter. So, You can trust me. I will try my level best and trying to be not disappointed you. There is no doubt that I'm an experienced Front-End Developer. 
-
-Thank You
-
-Skills: HTML / CSS / Bootstrap / JS / Jquery / React / PHP / Wordpress / C / Java
-
-- 🔭 I’m currently working on Fiverr 
-- 🌱 I’m currently learning Javascript 
-- 👯 I’m looking to collaborate on Github 
-- 🤔 I’m looking for help with Programing 
-- 💬 Ask me about Web Development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/durontoalim711)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/durontoalim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/durontoalim711)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/duronto_alim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/durontoalim711)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/DURONTOALIM)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](durontoalim.netlify.com)  
@@ -27,10 +14,10 @@ Skills: HTML / CSS / Bootstrap / JS / Jquery / React / PHP / Wordpress / C / Jav
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=durontoalim&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=durontoalim)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bird-of-passage)  
 
-![GitHub metrics](https://metrics.lecoq.io/durontoalim)  
+![GitHub metrics](https://metrics.lecoq.io/bird-of-passage)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=durontoalim)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bird-of-passage)  
 
-![Profile views](https://gpvc.arturio.dev/durontoalim)  
+![Profile views](https://gpvc.arturio.dev/bird-of-passage)  
