@@ -6,12 +6,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bird-of-passage)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bird-of-passage&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bird-of-passage)  
-
 ![GitHub metrics](https://metrics.lecoq.io/bird-of-passage)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bird-of-passage)  
