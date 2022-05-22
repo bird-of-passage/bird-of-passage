@@ -3,11 +3,6 @@
 ### now I'm exploring and learning the magic of programming    
 
 
-
-
-
-![GitHub metrics](https://metrics.lecoq.io/bird-of-passage)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bird-of-passage)  
 
 ![Profile views](https://gpvc.arturio.dev/bird-of-passage)  
